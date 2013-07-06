@@ -1,0 +1,21 @@
+﻿Go!
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    .classpath
+#	deleted:    .project
+#	deleted:    .settings/org.eclipse.jdt.core.prefs
+#	deleted:    bin/test/Test$1.class
+#	deleted:    bin/test/Test.class
+#	deleted:    src/test/Test.java
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	bin/
+#	olijoens.x0g.txt
+#	src/
+
